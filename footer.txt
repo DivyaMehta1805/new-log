@@ -1,0 +1,8 @@
+ <footer>
+        <br><a href="" class="clickable">Legal</a> <a href="" class="clickable">Privacy </a><a href=""
+            class="clickable">Security </a>
+        <p>© 2020 Intuit, Inc. All rights reserved. Intuit, QuickBooks, QB, TurboTax, ProConnect and Mint are registered
+            trademarks of Intuit Inc.
+            <br>Terms and conditions, features, support, pricing, and service options subject to change without notice.
+        </p>
+    </footer>
